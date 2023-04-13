@@ -28,6 +28,8 @@ PRODUCT_KEYWORDS_I:
 - kubernetes
 - lxc
 - podman
+- windows
+- checkpoint
 - container
 
 PRODUCT_KEYWORDS:
